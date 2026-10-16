@@ -28,7 +28,7 @@ export default {
 
 <template>
     <div style="font-family: sans-serif; padding: 24px;">
-        <h2>Toko Online</h2>
+        <h2>Toko Online - Kiranaa</h2>
 
         <p>Total Item di Keranjang (Getter): <strong>{{ totalItemKeranjang }}</strong></p>
 
